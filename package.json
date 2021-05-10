@@ -1,0 +1,23 @@
+{
+  "name": "connector-openpay",
+  "version": "1.0.0",
+  "description": "Basic implementation for the creation of clients, payments and subscriptions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masanchez91/connector-openpay.git"
+  },
+  "author": "Mauro Sanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masanchez91/connector-openpay/issues"
+  },
+  "homepage": "https://github.com/masanchez91/connector-openpay#readme",
+  "dependencies": {
+    "joi": "^14.3.1",
+    "openpay": "^1.0.5"
+  }
+}
